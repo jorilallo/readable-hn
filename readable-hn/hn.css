@@ -88,8 +88,16 @@ td[valign=top] center a img {
 	margin-top: 3px !important;
 }
 
-input {
+input[type=submit]  {
 	text-transform: capitalize !important;
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
+	font-size: 16px !important;
+	line-height: 21px !important;
+}
+
+input[type=text], input[type=password]  {
+    border-color: #DCD9D5 !important;
+	padding: 10px !important;
 	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
 	font-size: 16px !important;
 	line-height: 21px !important;

@@ -1,0 +1,135 @@
+td[bgcolor=#ff6600] {
+	background-color: #FBFBF9 !important;
+	padding-bottom: 20px !important;
+}
+
+table {
+	background-color: #FBFBF9 !important;
+}
+
+body {
+	background-color: #FBFBF9 !important;
+	padding-top: 20px !important;
+}
+
+span.pagetop a {
+	margin-right: 5px !important;
+	margin-left: 5px !important;
+	text-transform: capitalize !important;
+}
+
+td.title a {
+	font-size: 21px !important;
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
+	line-height: 32px !important;
+}
+
+td.subtext {
+	padding-bottom: 16px !important;
+}
+
+td.title {
+	font-size: 21px !important;
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
+	line-height: 32px !important;
+}
+
+td center a img {
+	margin-right: 10px !important;
+	margin-left: 10px !important;
+	margin-top: -3px !important;
+}
+
+.subtext {
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
+	font-size: 16px !important;
+	padding-top: 3px !important;
+}
+
+.comhead {
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;;
+	font-size: 16px !important;
+}
+
+tbody {
+	background-color: #FBFBF9 !important;
+}
+
+span.comment {
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
+	font-size: 18px !important;
+	line-height: 26px !important;
+}
+
+img[border=0] {
+	margin-bottom: 0 !important;
+}
+
+img[vspace=3] {
+	margin-top: 3px !important;
+}
+
+span.comment a {
+	color: #9C0001 !important;
+}
+
+font[size=1] {
+	font-size: 16px !important;
+	line-height: 25px !important;
+	text-transform: capitalize !important;
+}
+
+u a {
+	font-size: 16px !important;
+	text-transform: capitalize !important;
+}
+
+td[valign=top] center a img {
+	margin-top: 3px !important;
+}
+
+input {
+	text-transform: capitalize !important;
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
+	font-size: 16px !important;
+	line-height: 21px !important;
+}
+
+textarea {
+	border-color: #DCD9D5 !important;
+	padding: 10px !important;
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
+	font-size: 16px !important;
+	line-height: 25px !important;
+}
+
+tbody tr td {
+	padding-bottom: 0 !important;
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
+	font-size: 16px !important;
+	line-height: 25px !important;
+}
+
+font u a {
+	font-family: "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif !important;
+	font-size: 16px !important;
+	color: #9C0001 !important;
+}
+
+.topsel a:link, .topsel a:visited {
+	color: #000 !important;
+	text-decoration: underline !important;
+}
+
+tr td textarea {
+	width: 100% !important;
+}
+
+td form textarea {
+	width: 900px !important;
+}
+
+.default p {
+	margin-top: 21px !important;
+}
+

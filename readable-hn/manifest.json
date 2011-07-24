@@ -5,7 +5,8 @@
   "content_scripts": [
     {
       "matches": ["http://news.ycombinator.com/*", "http://news.ycombinator.org/*"],
-      "css": ["hn.css"]
+      "css": ["hn.css"],
+      "js": ["zepto.js", "hn.js"]
     }
   ],
   "icons": { "16": "icon_16.png",

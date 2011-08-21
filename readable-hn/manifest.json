@@ -4,7 +4,7 @@
   "description": "HackerNews with a touch of beauty (Readability bookmarklet like styling).",
   "content_scripts": [
     {
-      "matches": ["http://news.ycombinator.com/*", "http://news.ycombinator.org/*"],
+      "matches": ["*://news.ycombinator.com/*", "*://news.ycombinator.org/*"],
       "css": ["hn.css"],
       "js": ["zepto.js", "hn.js"]
     }

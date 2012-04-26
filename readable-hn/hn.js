@@ -1,6 +1,6 @@
 (function() {
   var host, uri, link, hostname,
-      hostname_re = new RegExp('^(?:f|ht)tp(?:s)?://(www.)?([^/]+)', 'im');
+      hostname_re = new RegExp('^(?:f|ht)tp(?:s)?://(www[\.])?([^/]+)', 'im')
 
   $(document).ready(function() {
     $("td.title").each(function(idx, el) {

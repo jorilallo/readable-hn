@@ -1,6 +1,7 @@
 {
   "name": "Readable HN",
   "version": "1.0.3",
+  "manifest_version": 2,
   "description": "HackerNews with a touch of beauty (Readability bookmarklet like styling).",
   "content_scripts": [
     {
